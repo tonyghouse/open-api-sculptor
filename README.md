@@ -1,2 +1,2 @@
-# open-api-sculptor
+#Open API Sculptor
 GUI for Open API Spec
